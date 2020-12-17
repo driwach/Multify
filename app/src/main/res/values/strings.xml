@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multify</string>
+    <string name="btn1">Text Color</string>
+    <string name="btn2">Font Color</string>
+    <string name="btn3">Add</string>
+    <string name="btn4">Subtract</string>
+    <string name="btn5">Increase</string>
+    <string name="btn6">Decrease</string>
+    <string name="btn7">Hide</string>
+    <string name="btn8">Show</string>
+    <string name="txt" translatable="false">0</string>
+    <string name="disminuir_limit">You can\'t Decrease</string>
+    <string name="augmentar_limit">You Can\'t Increase</string>
+</resources>

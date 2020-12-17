@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multify</string>
+    <string name="btn1">Color Text</string>
+    <string name="btn2">Color Fons</string>
+    <string name="btn3">Sumar</string>
+    <string name="btn4">Restar</string>
+    <string name="btn5">Augmentar</string>
+    <string name="btn6">Disminuir</string>
+    <string name="btn7">Amagar</string>
+    <string name="btn8">Mostrar</string>
+    <string name="disminuir_limit">No Pot Disminuir mes</string>
+    <string name="augmentar_limit">No Pot Augmentar mes</string>
+</resources>
